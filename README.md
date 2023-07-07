@@ -1,4 +1,5 @@
 # block_chain
+Repo has blockchain code base to start smart contracts & app flow.
 
 Repo contains:
 
